@@ -74,6 +74,10 @@ RNN for temporal data (sequences)
 By working with both models, This project offers hands-on experience with CNNs and RNNs, two fundamental architectures for spatial and temporal data. It provides a foundation for exploring more advanced deep learning models and real-world AI applications.
 
 
+OUTPUT:-
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/36ebc324-f807-47e0-9de0-e07f0ef6d875" />
+
 
 
 
